@@ -1,0 +1,6 @@
+*.pt
+**/*.jpg
+*/data/
+*/logs/
+*.jpg
+*/__pycache__/
